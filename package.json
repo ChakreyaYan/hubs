@@ -40,8 +40,6 @@
     "form-urlencoded": "^2.0.4",
     "jsonschema": "^1.2.2",
     "mobile-detect": "^1.4.1",
-    "moment": "^2.22.0",
-    "moment-timezone": "^0.5.14",
     "moving-average": "^1.0.0",
     "naf-janus-adapter": "^0.9.0",
     "networked-aframe": "https://github.com/mozillareality/networked-aframe#mr-social-client/master",
